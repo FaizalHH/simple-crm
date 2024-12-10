@@ -1,0 +1,13 @@
+lesson 3.9
+
+
+https://github.com/FaizalHH/6m-software-3.9-spring-intro/blob/main/lesson.md
+
+ctrl + shift + p (this is to create new project for maven java)
+
+
+https://ics.uci.edu/~fielding/pubs/dissertation/top.htm
+https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack
+https://mvnrepository.com/
+https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web
+https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml
