@@ -17,7 +17,7 @@ import lombok.Setter;
 public class Customer {
 
 
-    //---------------this is for lesson 3.10-----------------------------
+    //---------------this is from lesson 3.10-----------------------------
     private final String id = UUID.randomUUID().toString();
     private String firstName;
     private String lastName;
